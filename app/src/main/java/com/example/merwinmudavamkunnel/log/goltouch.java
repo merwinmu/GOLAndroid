@@ -34,7 +34,6 @@ public class goltouch extends RelativeLayout{
     StrictMode.ThreadPolicy policy = new StrictMode.ThreadPolicy.Builder().permitAll().build();
 
 
-
     goltouch(final Context context){
         super(context);
         init(context);
